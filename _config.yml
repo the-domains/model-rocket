@@ -1,0 +1,14 @@
+layout_spectrum: 0.2437276
+typography_spectrum: 0.7401434
+color:
+  saturation: 0.3141877
+  lightness: 0.7817173
+  brandStrength: 0.688172
+  brandColors:
+    - '#4AB69F'
+    - '#BDCDDA'
+    - '#264B65'
+    - '#F11216'
+    - '#E4787C'
+  rhythmicContrast: 0.8468058
+name: Model Rocket
