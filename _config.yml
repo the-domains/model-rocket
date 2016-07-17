@@ -1,9 +1,20 @@
-layout_spectrum: 0.2437276
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
 typography_spectrum: 0.7401434
 color:
   saturation: 0.3141877
-  lightness: 0.7817173
   brandStrength: 0.688172
+  lightness: 0.7817173
   brandColors:
     - '#4AB69F'
     - '#BDCDDA'
@@ -11,4 +22,5 @@ color:
     - '#F11216'
     - '#E4787C'
   rhythmicContrast: 0.8468058
+layout_spectrum: 0.2437276
 name: Model Rocket
